@@ -1,8 +1,11 @@
 # 👋 Hi I'm Junior RAZAFINDRATSIZA
 
 🎓 **3rd Engineer student & Data Engineer** at ENSAI (Bruz, France)  
+
 💼 **Data Engineer & Web developer** — passionate about video games, artificial intelligence (that includes Machine Learning and Deep Learning) 
+
 📍 Bruz, France  
+
 📫 **Contact :** [josephson-junior.razafindratsiza@eleve.ensai.fr](mailto:josephson-junior.razafindratsiza@eleve.ensai.fr)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rj-junior/) • [GitHub](github.com/JunENSAI)
 
