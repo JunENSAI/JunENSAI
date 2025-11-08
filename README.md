@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 Stack technique
+## 🧠 Technical Stack
 
 ### 🧰 Langages & Outils
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
