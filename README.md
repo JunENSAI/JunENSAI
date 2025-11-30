@@ -6,7 +6,7 @@
 
 📍 Bruz, France  
 
-📫 **Contact :** [josephson-junior.razafindratsiza@eleve.ensai.fr](mailto:josephson-junior.razafindratsiza@eleve.ensai.fr)  
+📫 **Contact :** [juniorjosephson@gmail.com](mailto:juniorjosephson@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rj-junior/) • [GitHub](github.com/JunENSAI)
 
 ---
