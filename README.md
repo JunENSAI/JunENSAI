@@ -1,8 +1,8 @@
 # 👋 Hi I'm Junior RAZAFINDRATSIZA
 
-🎓 **3rd Engineer student & Data Engineer** at ENSAI (Bruz, France)  
+🎓 **3rd Engineer student & Data Engineer** at ENSAI (Bruz, France)
 
-💼 **Data Engineer & Web developer** — passionate about video games, artificial intelligence (that includes Machine Learning and Deep Learning) 
+💼 **Data Engineer & Data Scientist** — passionate about video games, artificial intelligence (that includes Machine Learning and Deep Learning) 
 
 📍 Bruz, France  
 
@@ -16,6 +16,8 @@
 ### 🧰 Langages & Outils
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue?logo=github&logoColor=white)
+![CD](https://img.shields.io/badge/CD-GitHub%20Actions-green?logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -46,8 +48,9 @@
 
 
 ## 🎯 Current objectives
+- Learn from basic architecture to complex one
 - Develop my skills in **Data Engineering (Airflow, Spark, AWS)**
-- Develop a **portfolio of analytics and MLOps projects**
+- Develop my knowledge about **MLOps**
 - Learn about Federated Learning - AI security
 
 ---
