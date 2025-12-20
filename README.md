@@ -13,7 +13,7 @@
 
 ## 🧠 Technical Stack
 
-### 🧰 Langages & Outils
+### 🧰 Language & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue?logo=github&logoColor=white)
