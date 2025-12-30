@@ -56,7 +56,7 @@
 ---
 
 ## ⚡ Fun fact
-> “Rome wasn't built in a day.”
+> “Rome wasn't built in one day.”
 
 ---
 
