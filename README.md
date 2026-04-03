@@ -8,13 +8,8 @@
 
 ---
 
-## 🔍 **En recherche de stage de fin d'études (6 mois)**
-**Disponibilité :** [Avril 2026]
 
 Passionné par l'architecture de données et l'intelligence artificielle, je suis à la recherche d'une opportunité pour clôturer mon cursus d'ingénieur. Je souhaite apporter mon expertise technique et ma rigueur mathématique au sein d'une équipe innovante.
-
-🎯 **Postes visés :**
-`Data Engineer` • `MLOps Engineer` • `Data Scientist` • `AI Engineer`
 
 ---
 
