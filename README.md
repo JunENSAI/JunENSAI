@@ -3,8 +3,7 @@
 ### Élève-Ingénieur 3A à l'ENSAI | Data Engineer & Data Scientist
 
 📍 **Localisation :** Bruz, France (Mobile)
-📫 **Email :** [juniorjosephson@gmail.com](mailto:juniorjosephson@gmail.com)
-🔗 **Réseaux :** [LinkedIn](https://www.linkedin.com/in/rj-junior/) • [GitHub](https://github.com/JunENSAI)
+🔗 **Réseaux :** [LinkedIn](https://www.linkedin.com/in/rj-junior/)
 
 ## À propos de moi
 
@@ -37,6 +36,12 @@ Mon objectif n'est pas seulement de créer des modèles, mais de construire l'in
 ---
 
 ##  Projets Phares
+
+### **Federated Learning - Clean Label Backdoor Attack (2026)**
+*Projet de recherche académique dans le domaine du Federated Learning*
+- **Objectif :** Réproduire l'expérience du Clean Label Attack (Yingqiang Xie & Tianqing Zhu)
+- **Contexte :** Modèle d'apprentissage coopératif, Architecture CNN (pour les images CIFAR-10, MNIST), Clean Label Attack (model poisoning, no label flip, cost function maimization, epsilon noise)
+- **Résultats :** Une attaque réussie pour le scenario IID (où tous les participant ont la même distribution des données) mais une contraste pour le scenario Non-IID qui est instable selon les données (image 32*32 ou 64*64, RGB ou BW) mise en pratique
 
 ###  **MeteoPredict – Architecture Micro-services & ML (2025)**
 *Déploiement d'une solution complète de prédiction météorologique.*
