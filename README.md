@@ -6,13 +6,6 @@
 📫 **Email :** [juniorjosephson@gmail.com](mailto:juniorjosephson@gmail.com)
 🔗 **Réseaux :** [LinkedIn](https://www.linkedin.com/in/rj-junior/) • [GitHub](https://github.com/JunENSAI)
 
----
-
-
-Passionné par l'architecture de données et l'intelligence artificielle, je suis à la recherche d'une opportunité pour clôturer mon cursus d'ingénieur. Je souhaite apporter mon expertise technique et ma rigueur mathématique au sein d'une équipe innovante.
-
----
-
 ## À propos de moi
 
 Actuellement en dernière année à l'**ENSAI** (École Nationale de la Statistique et de l'Analyse de l'Information), je combine une double compétence en **Statistiques/Mathématiques** et en **Informatique**.
