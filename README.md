@@ -1,19 +1,11 @@
 # 👋 Bonjour, je suis Junior RAZAFINDRATSIZA
 
-### Élève-Ingénieur 3A à l'ENSAI | Data Engineer & Data Scientist
+### Analytics Engineer | Data Quality Analytics
 
 📍 **Localisation :** Bruz, France (Mobile)
 🔗 **Réseaux :** [LinkedIn](https://www.linkedin.com/in/rj-junior/)
 
-## À propos de moi
-
-Actuellement en dernière année à l'**ENSAI** (École Nationale de la Statistique et de l'Analyse de l'Information), je combine une double compétence en **Statistiques/Mathématiques** et en **Informatique**.
-
-Mon objectif n'est pas seulement de créer des modèles, mais de construire l'infrastructure robuste nécessaire pour les déployer et les maintenir en production. Je m'intéresse particulièrement aux problématiques de **Scalabilité**, de **CI/CD pour la Data** et à la **Sécurité de l'IA** (Federated Learning).
-
----
-
-## 🧠 Stack Technique
+## Stack Technique
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
@@ -35,7 +27,12 @@ Mon objectif n'est pas seulement de créer des modèles, mais de construire l'in
 
 ---
 
-##  Projets Phares
+##  Projets
+
+### **Bot_JR - Chess Bot Personalized**
+*Projet personnel lié à un compte chesscom sur les parties d'échecs*
+- **Objectif :** Conception d'un Bot personnalisé sur les coups des parties dans la base de données couplé au moteur Stockfish 16 pour les entraînements sur les coups autres de ceux qui sont dans la base. 
+- **Contexte :** Voir si l'ordi arrive à suivre les idées des coups de la base de données. Vu que les coups sont pas forcément les meilleurs et j'aurai aimé savoir si c'est possible de me contrer sur des positions que je joue habituellement.
 
 ### **Federated Learning - Clean Label Backdoor Attack (2026)**
 *Projet de recherche académique dans le domaine du Federated Learning*
@@ -49,19 +46,6 @@ Mon objectif n'est pas seulement de créer des modèles, mais de construire l'in
 - **DevOps :** Conteneurisation de l'application via **Docker** et orchestration sur un cluster **Kubernetes**.
 - **Impact :** Mise en production d'un modèle prédictif avec gestion de la scalabilité.
 - **Stack :** `Python`, `Django REST`, `React.js`, `Docker`, `Kubernetes`
-
-### **StreamSmart – Système de Recommandation (2024)**
-*Optimisation de budget pour les consommateurs de streaming.*
-- **Objectif :** Algorithme calculant la combinaison d'abonnements optimale basée sur la "Watchlist" de l'utilisateur.
-- **Tech :** Intégration de l'API TMDB pour la récupération de données en temps réel et interface interactive via Streamlit.
-- **Stack :** `Python`, `SQL`, `FastAPI`, `Streamlit`, `Data Processing`
-
----
-
-## Objectifs d'apprentissage actuels
-- 🏗️ **Architecture Data Avancée :** Approfondissement sur Spark et les patterns Big Data.
-- ⚙️ **MLOps :** Automatisation complète du cycle de vie des modèles (DVC, MLFlow).
-- 🔒 **IA de Confiance :** Recherche active sur le Federated Learning et la confidentialité différentielle.
 
 ---
 
